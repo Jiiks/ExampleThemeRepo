@@ -2,30 +2,35 @@
   {
     "name": "ExampleTheme1",
     "type": "theme",
-    "src": "ExampleTheme1/src",
+    "src": "src/ExampleTheme1",
     "version": "1.0",
     "description": "Theme description",
+    "tags": [
+      "Light"
+    ],
     "authors": [
       "Jiiks"
     ],
     "preview": {
-      "thumbnail": "ExampleTheme1/thumb.png",
-      "large": "ExampleTheme1/preview.png"
+      "thumbnail": "src/ExampleTheme1/thumb.png"
     }
   },
   {
     "name": "ExampleTheme2",
     "type": "theme",
-    "src": "ExampleTheme2/src",
+    "src": "src/ExampleTheme2",
     "version": "1.1",
     "description": "Theme description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
     "authors": [
       "Jiiks",
       "Jiiks2"
     ],
     "preview": {
-      "thumbnail": "ExampleTheme2/thumb.png",
-      "large": "ExampleTheme2/preview.png"
+      "thumbnail": "src/ExampleTheme2/thumb.png"
     }
   },
   {
@@ -35,6 +40,9 @@
     "legacy": true,
     "version": "1.1",
     "description": "Plugin description",
+    "tags": [
+      "Generic"
+    ],
     "authors": [
       "Jiiks"
     ],
