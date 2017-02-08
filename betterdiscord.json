@@ -4,6 +4,7 @@
     "type": "theme",
     "src": "ExampleTheme1/src",
     "version": "1.0",
+    "description": "Theme description",
     "authors": [
       "Jiiks"
     ],
@@ -17,6 +18,7 @@
     "type": "theme",
     "src": "ExampleTheme2/src",
     "version": "1.1",
+    "description": "Theme description",
     "authors": [
       "Jiiks",
       "Jiiks2"
@@ -32,6 +34,7 @@
     "src": "ExamplePlugin/src",
     "legacy": true,
     "version": "1.1",
+    "description": "Plugin description",
     "authors": [
       "Jiiks"
     ],
