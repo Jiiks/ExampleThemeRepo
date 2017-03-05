@@ -9,7 +9,7 @@
       "Light"
     ],
     "authors": [
-      { "Jiiks": "81388395867156480" }
+      { "name": "Jiiks", "discord_id": "81388395867156480" }
     ],
     "preview": {
       "thumbnail": "src/ExampleTheme1/thumb.png"
@@ -26,8 +26,8 @@
       "Transparent"
     ],
     "authors": [
-      { "Jiiks": "81388395867156480" },
-      { "Hammock": "138850472541814784" }
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
     ],
     "preview": {
       "thumbnail": "src/ExampleTheme2/thumb.png"
