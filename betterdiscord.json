@@ -50,5 +50,243 @@
       "thumbnail": "ExamplePlugin/thumb.png",
       "large": "ExamplePlugin/preview.png"
     }
+  },
+
+
+
+
+  {
+    "name": "ExampleTheme3",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme3 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme4",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme4 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme5",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme5 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme6",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme6 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme7",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme7 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme8",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme8 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme9",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme9 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme10",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme10 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme11",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme11 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme12",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme12 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme13",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme13 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme14",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme14 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
+  },
+  {
+    "name": "ExampleTheme15",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "ExampleTheme15 description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumb.png"
+    }
   }
 ]
