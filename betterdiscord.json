@@ -51,7 +51,24 @@
       "large": "ExamplePlugin/preview.png"
     }
   },
-
+  {
+    "name": "ExamplePlugin2",
+    "type": "plugin",
+    "src": "src/ExampleTheme2",
+    "version": "1.1",
+    "description": "Plugin description",
+    "tags": [
+      "Dark",
+      "Transparent"
+    ],
+    "authors": [
+      { "name": "Jiiks", "discord_id": "81388395867156480" },
+      { "name": "Hammock", "discord_id": "138850472541814784" }
+    ],
+    "preview": {
+      "thumbnail": "src/ExampleTheme2/thumbnew.png"
+    }
+  },
 
 
 
